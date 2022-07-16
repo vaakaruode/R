@@ -80,3 +80,7 @@ if (!requireNamespace("httpuv", quietly = TRUE)) {
 }
 
 
+# git remote add origin git@github-vaakaruode:vaakaruode/R.git
+
+
+
