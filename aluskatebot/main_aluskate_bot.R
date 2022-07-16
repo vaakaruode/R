@@ -5,6 +5,7 @@
 # 16.7.2022: elevated API access needed for rtweet posts
 # - analysis is possible
 # API v2 access to account tested
+# comment test
 # ........................................................
 install.packages('rtweet')
 library(rtweet) # WARNING: Rtools is required to build R packages but is not currently installed.
